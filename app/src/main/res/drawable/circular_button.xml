@@ -1,0 +1,6 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/white"/> <!-- Elige tu color aquí -->
+    <corners android:radius="50dp"/> <!-- Elige el radio para hacerlo circular -->
+    <!-- Puedes agregar un borde si lo deseas -->
+    <!-- <stroke android:color="#000000" android:width="1dp"/> -->
+</shape>

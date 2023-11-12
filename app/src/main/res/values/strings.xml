@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TourAppParte2</string>
+    <string name="app_title">TourApp</string>
+    <string name="btn_singin">Iniciar Sesion</string>
+    <string name="tv_name">Ingrese su usuario</string>
+    <string name="tv_password">Ingrese su contraseña</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="home_saludo">Hola,</string>
+    <string name="home_cart">ShopCart</string>
+    <string name="tv_name_label">Usuario</string>
+    <string name="tv_password_label">Contraseña</string>
+    <string name="btn_comprar">Comprar</string>
+    <string name="tv_titlePurchases">Tu lista de compras</string>
+    <string name="btn_salir">Salir</string>
+</resources>
